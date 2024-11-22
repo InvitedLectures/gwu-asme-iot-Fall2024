@@ -23,6 +23,11 @@ The slide decks do render on mobile devices with iOS.<br>
 Use a laptop or a desktop to view the content.
 :::
 
+::: {layout="[[1,1], [1]]"}
+![Flyer](./images/PizzaIoTwithASME.PNG){width=4in}
+<!-- ![Elephant](elephant.png){width=70%, ig-alt="A drawing of an elephant."} -->
+:::
+
 :::{.callout-note}
 **Referencing the content on this webpage:**
 
