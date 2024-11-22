@@ -1,2 +1,2 @@
 # Listing of invited talks
-This repo is to host the webpage for my invited-talks
+This is a repo for my invited-talks
