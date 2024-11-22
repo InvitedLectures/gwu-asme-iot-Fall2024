@@ -1,10 +1,33 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Talks and workshop schedule",
+    "objectID": "profile.html",
+    "href": "profile.html",
+    "title": "Founder",
     "section": "",
-    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nMore info on this external site\n\n\n\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInfo and slide deck"
+    "text": "I am an Associate Research Professor in the Department of Mechanical and Aerospace Engineering at The George Washington University, Washington DC. I am a generalist, working on things that interest me.\nMy formal training is in fluid dynamics. I am still passionately running experiments and doing some theoretical work in the field. Currently my fluid dynamics research is into biological fluid dynamics and cardiovascular flow.\nI taught a cross-disciplinary course titled, Internet of Things (IoT) and Edge Computing. The course is extremely hands-on. It helped develop applications in cyber-physical systems and speech processing.\nIn addition, I taught courses for first year engineering students on the engineering applications of Raspberry Pi, Python programming and mobile App development inspired by social innovation potential during the COVID-19 pandemic.\nI am here because of my experiences as a researcher, educator and immense support from family, friends and students.\n\n\n\n\n  \nEmail: bulusu at email dot gwu dot edu",
+    "crumbs": [
+      "Kartik Bulusu's Bio"
+    ]
+  },
+  {
+    "objectID": "profile.html#kartik-bulusu",
+    "href": "profile.html#kartik-bulusu",
+    "title": "Founder",
+    "section": "",
+    "text": "I am an Associate Research Professor in the Department of Mechanical and Aerospace Engineering at The George Washington University, Washington DC. I am a generalist, working on things that interest me.\nMy formal training is in fluid dynamics. I am still passionately running experiments and doing some theoretical work in the field. Currently my fluid dynamics research is into biological fluid dynamics and cardiovascular flow.\nI taught a cross-disciplinary course titled, Internet of Things (IoT) and Edge Computing. The course is extremely hands-on. It helped develop applications in cyber-physical systems and speech processing.\nIn addition, I taught courses for first year engineering students on the engineering applications of Raspberry Pi, Python programming and mobile App development inspired by social innovation potential during the COVID-19 pandemic.\nI am here because of my experiences as a researcher, educator and immense support from family, friends and students.\n\n\n\n\n  \nEmail: bulusu at email dot gwu dot edu",
+    "crumbs": [
+      "Kartik Bulusu's Bio"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kartik Bulusu’s talks and workshop schedule",
+    "section": "",
+    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nInternet-of-Things\n\n\nMore info on tbis external site\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInternet-of-Things\n\n\nInfo and slide deck",
+    "crumbs": [
+      "Listing"
+    ]
   },
   {
     "objectID": "gwu_asme_section.html",
@@ -21,13 +44,10 @@
     "text": "Goal of the lecture\n\nExpose the students to the history and current state of IoT technology\nMake the students realize that they are either wearing, holding or carrying an IoT device\nDemo: Provide a working IoT application using the Raspberry Pi and the senseHat module\nCase discussion: How Domino’s Pizza reinvented their pizza story using IoT"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "Talks and workshop schedule",
     "section": "",
-    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nInternet-of-Things\n\n\nMore info on tbis external site\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInternet-of-Things\n\n\nInfo and slide deck",
-    "crumbs": [
-      "Listing"
-    ]
+    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nMore info on this external site\n\n\n\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInfo and slide deck"
   }
 ]

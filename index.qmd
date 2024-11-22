@@ -1,5 +1,5 @@
 ---
-title: "Talks and workshop schedule"
+title: "Kartik Bulusu's talks and workshop schedule"
 format: 
   html:
     code-copy: false
