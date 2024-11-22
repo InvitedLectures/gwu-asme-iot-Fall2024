@@ -5,40 +5,6 @@ project:
   #   - "*.mp4"
   #   - "*.mov"
 
-# website:
-#   title: "Invited lectures and workshops"
-#   back-to-top-navigation: true
-#   page-footer: "The material is sourced from **Prof. Kartik Bulusu's** courses taught in GWU unless specified.<br> This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br> Contact: [Kartik Bulusu](mailto:bulusu@email.gwu.edu)<br> &copy; 2024 All rights reserved"
-#   search: true
-#   page-navigation: true
-#   bread-crumbs: true
-#   navbar:
-#     style: floating
-#     left:
-#       - href: index.qmd
-#         text: List
-#       - href: about.qmd
-#         text: about
-
-# format:
-#   html:
-#     theme: cosmo
-#     css: styles.css
-#     toc: true
-#     toc-depth: 5
-#     # grid:
-#     #   sidebar-width: 300px
-#     #   body-width: 900px
-#     #   margin-width: 300px
-#     #   gutter-width: 1.5rem
-
-# project:
-#   type: website
-#   output-dir: docs
-#   resources: 
-#     - "*.mp4"
-#     - "*.mov"
-
 website:
   title: "Invited lectures and workshops"
   # back-to-top-navigation: true
