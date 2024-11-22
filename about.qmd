@@ -1,0 +1,97 @@
+---
+title: "Talks and workshop schedule"
+format: 
+  html:
+    code-copy: false
+---
+<html>
+<head>
+    <style>
+        body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+/Edge */
+            user-select: none; /* Standard */
+        }
+    </style>
+</head>
+<body>
+
+::: {.callout-warning appearance="simple"}
+**The schedule below is from Fall 2024 onward.**
+:::
+
+<style>
+        .thumbnail {
+            width: 100px; 
+            cursor: pointer;
+        }
+
+        #popupContainer {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            justify-content: center;
+            align-items: center;
+        }
+
+        #popupImage {
+            max-width: 80%;
+            max-height: 80%;
+        }
+    </style>
+
+<table class="table table-hover w-auto">
+  <colgroup>
+    <col style="width:3%">
+    <col style="width:50%">
+    <col style="width:47%">
+    <!-- <col style="width:32%"> -->
+  </colgroup>
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Topic(s) and readings </th>
+      <th scope="col">Take a look</th>
+      <!--- <th scope="col">Column heading</th> -->
+    </tr>
+  </thead>
+
+  <tbody>
+      <tr class="table-secondary">
+      <th scope="row">[11/11/2024]</th>
+      <td>
+         Connect, Compute and Communicate! <br>A practical introduction to a DIY internet of things
+      </td>
+      <td>
+        [More info](https://invitedlectures.github.io/IEEENoVA_Fall2024/)
+      </td>
+      <td>
+      </td>
+      <!--- <td>Column content</td> -->
+      </tr>
+      <tr class="table-secondary">
+      <th scope="row">[10/30/2024]</th>
+      <td>
+        Pizza and IoT with GWU ASME
+      </td>
+      <td>
+        [Slide deck](gwu_asme_section.qmd)
+      </td>
+      <td>
+      </td>
+      <!--- <td>Column content</td> -->
+      </tr>
+  </tbody>
+</table>
+
+<!-- # GWU ASME Section 
+:::{.callout-note}
+**Referencing the content on this webpage:**
+
+Bulusu, Kartik V. (2025, January). MAE 6291: Internet-of-Things for Engineers. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.
+::: -->

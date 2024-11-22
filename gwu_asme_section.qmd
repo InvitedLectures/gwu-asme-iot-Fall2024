@@ -1,0 +1,33 @@
+---
+title: "GWU ASME Section"
+format: 
+  html:
+    code-copy: false
+---
+<html>
+<head>
+    <style>
+        body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+/Edge */
+            user-select: none; /* Standard */
+        }
+    </style>
+</head>
+<body>
+
+:::{.callout-note}
+**Referencing the content on this webpage:**
+
+Bulusu, Kartik V. (2024, October 30). Pizza and IoT with ASME. [Guest talk and demo with Raspberry Pi 4B and senseHat]. Department of Mechanical and Aerospace Engineering, The George Washington University.
+:::
+
+## Goal of the lecture
+
+1. Expose the students to the history and current state of IoT technology 
+2. Make the students realize that they are either wearing, holding or carrying an IoT device 
+2. Demo: Provide a working IoT application using the Raspberry Pi and the senseHat module
+4. Case discussion: How Domino's Pizza reinvented their pizza story using IoT
+
+![](slide_decks/GWU_ASME_PizzaIoT.pdf){width="100%" height="800px"}
