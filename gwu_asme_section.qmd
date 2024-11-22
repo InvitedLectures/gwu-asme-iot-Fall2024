@@ -17,6 +17,12 @@ format:
 </head>
 <body>
 
+
+:::{.callout-warning}
+The slide decks do render on mobile devices with iOS.<br>
+Use a laptop or a desktop to view the content.
+:::
+
 :::{.callout-note}
 **Referencing the content on this webpage:**
 
