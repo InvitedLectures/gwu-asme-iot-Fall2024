@@ -73,7 +73,7 @@ format:
             Internet-of-Things
         </td>
         <td>
-            [More info](https://invitedlectures.github.io/IEEENoVA_Fall2024/)
+            [More info on tbis external site](https://invitedlectures.github.io/IEEENoVA_Fall2024/)
         </td>
     </tr>
     <tr class="table-secondary">
@@ -85,7 +85,7 @@ format:
             Internet-of-Things
         </td>
         <td>
-            [Slide deck](gwu_asme_section.qmd)
+            [Info and slide deck](gwu_asme_section.qmd)
         </td>
       <!-- <td>
       </td> -->
