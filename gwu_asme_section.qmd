@@ -19,7 +19,7 @@ format:
 
 
 :::{.callout-warning}
-The slide decks do render on mobile devices with iOS.<br>
+The slide decks do not render on mobile devices with iOS.<br>
 Use a laptop or a desktop to view the content.
 :::
 
@@ -38,7 +38,7 @@ Bulusu, Kartik V. (2024, October 30). Pizza and IoT with ASME. [Guest talk and d
 
 1. Expose the students to the history and current state of IoT technology 
 2. Make the students realize that they are either wearing, holding or carrying an IoT device 
-2. Demo: Provide a working IoT application using the Raspberry Pi and the senseHat module
+3. Demo: Provide a working IoT application using the Raspberry Pi and the senseHat module
 4. Case discussion: How Domino's Pizza reinvented their pizza story using IoT
 
 ![](slide_decks/GWU_ASME_PizzaIoT.pdf){width="100%" height="800px"}

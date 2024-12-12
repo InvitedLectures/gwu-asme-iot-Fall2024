@@ -1,0 +1,39 @@
+---
+title: "Theta Tau Alumni Panel"
+format: 
+  html:
+    code-copy: false
+---
+<html>
+<head>
+    <style>
+        body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+/Edge */
+            user-select: none; /* Standard */
+        }
+    </style>
+</head>
+<body>
+
+
+:::{.callout-warning}
+The images may not render on mobile devices with iOS.<br>
+Use a laptop or a desktop to view the content.
+:::
+
+::: {layout="[[1,1], [1]]"}
+![Flyer](./images/AlumniPanel_Flyer.png){width=4in}
+<!-- ![Elephant](elephant.png){width=70%, ig-alt="A drawing of an elephant."} -->
+:::
+
+:::{.callout-note}
+[$\Theta T$](https://www.thetataugw.org) is a co-ed professional engineering fraternity.
+Click on [$\Theta T$](https://www.thetataugw.org) to know more.
+:::
+
+## Goal of the panel discussion
+
+1. Expose the students various career paths in engineering and computer science.
+2. Help students build professional contacts and network with $\Theta T$ alumni.  

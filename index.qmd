@@ -48,8 +48,8 @@ format:
 <table class="table table-hover w-auto">
   <colgroup>
     <col style="width:3%">
-    <col style="width:50%">
-    <col style="width:20%">
+    <col style="width:40%">
+    <col style="width:30%">
     <col style="width:27%">
     <!-- <col style="width:32%"> -->
   </colgroup>
@@ -91,5 +91,21 @@ format:
       </td> -->
       <!--- <td>Column content</td> -->
     </tr>
+    <tr class="table-secondary">
+        <th scope="row">[12/05/2024]</th>
+        <td>
+            Theta Tau ([$\Theta T$](https://www.thetataugw.org)) Alumni Panel
+        </td>
+        <td>
+            Career advise for young engineers. 
+            [$\Theta T$](https://www.thetataugw.org) is a co-ed professional engineering fraternity.
+        </td>
+        <td>
+            [Flyer](thetatau_gwu_alumnipanel.qmd)
+        </td>
+      <!-- <td>
+      </td> -->
+      <!--- <td>Column content</td> -->
+    </tr>    
   </tbody>
 </table>

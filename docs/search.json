@@ -1,5 +1,50 @@
 [
   {
+    "objectID": "thetatau_gwu_alumnipanel.html",
+    "href": "thetatau_gwu_alumnipanel.html",
+    "title": "Theta Tau Alumni Panel",
+    "section": "",
+    "text": "Warning\n\n\n\nThe images may not render on mobile devices with iOS. Use a laptop or a desktop to view the content."
+  },
+  {
+    "objectID": "thetatau_gwu_alumnipanel.html#goal-of-the-panel-discussion",
+    "href": "thetatau_gwu_alumnipanel.html#goal-of-the-panel-discussion",
+    "title": "Theta Tau Alumni Panel",
+    "section": "Goal of the panel discussion",
+    "text": "Goal of the panel discussion\n\nExpose the students various career paths in engineering and computer science.\nHelp students build professional contacts and network with \\(\\Theta T\\) alumni."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Talks and workshop schedule",
+    "section": "",
+    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nMore info on this external site\n\n\n\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInfo and slide deck\n\n\n\n\n\n\n\n\n[12/05/2024]\n\n\nTheta Tau Alumni Panel\n\n\nInfo and slide deck"
+  },
+  {
+    "objectID": "gwu_asme_section.html",
+    "href": "gwu_asme_section.html",
+    "title": "GWU ASME Section",
+    "section": "",
+    "text": "Warning\n\n\n\nThe slide decks do not render on mobile devices with iOS. Use a laptop or a desktop to view the content."
+  },
+  {
+    "objectID": "gwu_asme_section.html#goal-of-the-lecture",
+    "href": "gwu_asme_section.html#goal-of-the-lecture",
+    "title": "GWU ASME Section",
+    "section": "Goal of the lecture",
+    "text": "Goal of the lecture\n\nExpose the students to the history and current state of IoT technology\nMake the students realize that they are either wearing, holding or carrying an IoT device\nDemo: Provide a working IoT application using the Raspberry Pi and the senseHat module\nCase discussion: How Domino’s Pizza reinvented their pizza story using IoT"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kartik Bulusu’s talks and workshop schedule",
+    "section": "",
+    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nInternet-of-Things\n\n\nMore info on tbis external site\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInternet-of-Things\n\n\nInfo and slide deck\n\n\n\n\n\n\n[12/05/2024]\n\n\nTheta Tau (\\(\\Theta T\\)) Alumni Panel\n\n\nCareer advise for young engineers. \\(\\Theta T\\) is a co-ed professional engineering fraternity.\n\n\nFlyer",
+    "crumbs": [
+      "Listing"
+    ]
+  },
+  {
     "objectID": "profile.html",
     "href": "profile.html",
     "title": "Founder",
@@ -18,36 +63,5 @@
     "crumbs": [
       "Kartik Bulusu's Bio"
     ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kartik Bulusu’s talks and workshop schedule",
-    "section": "",
-    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nInternet-of-Things\n\n\nMore info on tbis external site\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInternet-of-Things\n\n\nInfo and slide deck",
-    "crumbs": [
-      "Listing"
-    ]
-  },
-  {
-    "objectID": "gwu_asme_section.html",
-    "href": "gwu_asme_section.html",
-    "title": "GWU ASME Section",
-    "section": "",
-    "text": "Warning\n\n\n\nThe slide decks do render on mobile devices with iOS. Use a laptop or a desktop to view the content."
-  },
-  {
-    "objectID": "gwu_asme_section.html#goal-of-the-lecture",
-    "href": "gwu_asme_section.html#goal-of-the-lecture",
-    "title": "GWU ASME Section",
-    "section": "Goal of the lecture",
-    "text": "Goal of the lecture\n\nExpose the students to the history and current state of IoT technology\nMake the students realize that they are either wearing, holding or carrying an IoT device\nDemo: Provide a working IoT application using the Raspberry Pi and the senseHat module\nCase discussion: How Domino’s Pizza reinvented their pizza story using IoT"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Talks and workshop schedule",
-    "section": "",
-    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nMore info on this external site\n\n\n\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInfo and slide deck"
   }
 ]

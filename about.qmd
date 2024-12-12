@@ -87,6 +87,20 @@ format:
       </td>
       <!--- <td>Column content</td> -->
       </tr>
+
+      </tr>
+      <tr class="table-secondary">
+      <th scope="row">[12/05/2024]</th>
+      <td>
+        Theta Tau Alumni Panel
+      </td>
+      <td>
+        [Info and slide deck](gwu_asme_section.qmd)
+      </td>
+      <td>
+      </td>
+      <!--- <td>Column content</td> -->
+      </tr>
   </tbody>
 </table>
 
