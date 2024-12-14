@@ -1,0 +1,66 @@
+---
+title: "Friday Engineering and Science Seminar Series (FRIES$^3$)"
+format: 
+  html:
+    code-copy: false
+---
+<html>
+<head>
+    <style>
+        body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+/Edge */
+            user-select: none; /* Standard */
+        }
+    </style>
+</head>
+<body>
+
+
+:::{.callout-warning}
+The slide decks do not render on mobile devices with iOS.<br>
+Use a laptop or a desktop to view the content.
+:::
+
+## Flyers and Announcements
+::: {layout-ncol=2}
+![Poster](./images/Fall2024/FRIES_Fall2024/PosterTemplate-Landscaoe.png){width=4in}
+
+![Department Flyer](./images/Fall2024/FRIES_Fall2024/Fries_christmas.png){width=4in}
+:::
+
+:::{.callout-note}
+**Referencing the content on this webpage:**
+
+Bulusu, Kartik V. (2024, December 13). Internet of Things for Ages 4 and Up. [Friday Engineering and Science Seminar Series (FRIES$^3$)]. Department of Mechanical and Aerospace Engineering, The George Washington University.
+:::
+
+## Goal of the lecture
+
+1. Introduce the ideas behind the what is being called the Internet of Things from a historical context.
+2. Demo: Use the `deep_translator` engine to do Speech processing
+3. Demo: Use a social machine to control a physical entity 
+4. Automated email with any data such as text, audio files and images to selected attendees using the Raspberry Pi. 
+
+![](slide_decks/FRIES_Bulusu.pdf){width="100%" height="800px"}
+
+
+## Pictures with attendees
+::: {layout-ncol=2}
+![Pictures with attendees-1](./images/Fall2024/FRIES_Fall2024/IMG_3870.jpg){width=4in}
+
+![Pictures with attendees-2](./images/Fall2024/FRIES_Fall2024/IMG_3871.jpg){width=4in}
+
+![Pictures with attendees-2](./images/Fall2024/FRIES_Fall2024/IMG_3872.jpg){width=4in}
+:::
+
+## Auto-generated images during demo
+::: {layout-ncol=2}
+![Selfie taken during the IoT demo-1](./images/Fall2024/FRIES_Fall2024/image.jpg){width=4in}
+
+![Selfie taken during the IoT demo-1](./images/Fall2024/FRIES_Fall2024/image-2.jpg){width=4in}
+:::
+
+<!-- ## Audio clip from the Speech processing demo
+{{< audio file="./images/Fall2024/FRIES_Fall2024/FRIES_Bulusu_Msg.mp3" caption="Sample Audio File">}} -->

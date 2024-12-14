@@ -14,11 +14,49 @@
     "text": "Goal of the panel discussion\n\nExpose the students various career paths in engineering and computer science.\nHelp students build professional contacts and network with \\(\\Theta T\\) alumni."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Talks and workshop schedule",
+    "objectID": "gwu_FRIES.html",
+    "href": "gwu_FRIES.html",
+    "title": "Friday Engineering and Science Seminar Series (FRIES\\(^3\\))",
     "section": "",
-    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nMore info on this external site\n\n\n\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInfo and slide deck\n\n\n\n\n\n\n\n\n[12/05/2024]\n\n\nTheta Tau Alumni Panel\n\n\nInfo and slide deck"
+    "text": "Warning\n\n\n\nThe slide decks do not render on mobile devices with iOS. Use a laptop or a desktop to view the content."
+  },
+  {
+    "objectID": "gwu_FRIES.html#flyers-and-announcements",
+    "href": "gwu_FRIES.html#flyers-and-announcements",
+    "title": "Friday Engineering and Science Seminar Series (FRIES\\(^3\\))",
+    "section": "Flyers and Announcements",
+    "text": "Flyers and Announcements\n\n\n\n\n\n\n\n\n\nPoster\n\n\n\n\n\n\n\nDepartment Flyer\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nReferencing the content on this webpage:\nBulusu, Kartik V. (2024, December 13). Internet of Things for Ages 4 and Up. [Friday Engineering and Science Seminar Series (FRIES\\(^3\\))]. Department of Mechanical and Aerospace Engineering, The George Washington University."
+  },
+  {
+    "objectID": "gwu_FRIES.html#goal-of-the-lecture",
+    "href": "gwu_FRIES.html#goal-of-the-lecture",
+    "title": "Friday Engineering and Science Seminar Series (FRIES\\(^3\\))",
+    "section": "Goal of the lecture",
+    "text": "Goal of the lecture\n\nIntroduce the ideas behind the what is being called the Internet of Things from a historical context.\nDemo: Use the deep_translator engine to do Speech processing\nDemo: Use a social machine to control a physical entity\nAutomated email with any data such as text, audio files and images to selected attendees using the Raspberry Pi."
+  },
+  {
+    "objectID": "gwu_FRIES.html#pictures-with-attendees",
+    "href": "gwu_FRIES.html#pictures-with-attendees",
+    "title": "Friday Engineering and Science Seminar Series (FRIES\\(^3\\))",
+    "section": "Pictures with attendees",
+    "text": "Pictures with attendees\n\n\n\n\n\n\n\n\n\nPictures with attendees-1\n\n\n\n\n\n\n\nPictures with attendees-2\n\n\n\n\n\n\n\n\n\nPictures with attendees-2"
+  },
+  {
+    "objectID": "gwu_FRIES.html#auto-generated-images-during-demo",
+    "href": "gwu_FRIES.html#auto-generated-images-during-demo",
+    "title": "Friday Engineering and Science Seminar Series (FRIES\\(^3\\))",
+    "section": "Auto-generated images during demo",
+    "text": "Auto-generated images during demo\n\n\n\n\n\n\n\n\n\nSelfie taken during the IoT demo-1\n\n\n\n\n\n\n\nSelfie taken during the IoT demo-1"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kartik Bulusu’s talks and workshop schedule",
+    "section": "",
+    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nInternet-of-Things\n\n\nMore info on this external site\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInternet-of-Things\n\n\nInfo and slide deck\n\n\n\n\n\n\n[12/05/2024]\n\n\nTheta Tau (\\(\\Theta T\\)) Alumni Panel\n\n\nCareer advise for young engineers. \\(\\Theta T\\) is a co-ed professional engineering fraternity.\n\n\nFlyer\n\n\n\n\n\n\n[12/05/2024]\n\n\nInternet of Things for ages 4 and up\n\n\nInternet-of-Things\n\n\nMore info and slide deck)",
+    "crumbs": [
+      "Listing"
+    ]
   },
   {
     "objectID": "gwu_asme_section.html",
@@ -35,14 +73,11 @@
     "text": "Goal of the lecture\n\nExpose the students to the history and current state of IoT technology\nMake the students realize that they are either wearing, holding or carrying an IoT device\nDemo: Provide a working IoT application using the Raspberry Pi and the senseHat module\nCase discussion: How Domino’s Pizza reinvented their pizza story using IoT"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kartik Bulusu’s talks and workshop schedule",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Talks and workshop schedule",
     "section": "",
-    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nInternet-of-Things\n\n\nMore info on tbis external site\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInternet-of-Things\n\n\nInfo and slide deck\n\n\n\n\n\n\n[12/05/2024]\n\n\nTheta Tau (\\(\\Theta T\\)) Alumni Panel\n\n\nCareer advise for young engineers. \\(\\Theta T\\) is a co-ed professional engineering fraternity.\n\n\nFlyer",
-    "crumbs": [
-      "Listing"
-    ]
+    "text": "The schedule below is from Fall 2024 onward.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTopic(s) and readings\n\n\nTake a look\n\n\n\n\n\n\n\n[11/11/2024]\n\n\nConnect, Compute and Communicate! A practical introduction to a DIY internet of things\n\n\nMore info on this external site\n\n\n\n\n\n\n\n[10/30/2024]\n\n\nPizza and IoT with GWU ASME\n\n\nInfo and slide deck\n\n\n\n\n\n\n\n\n[12/05/2024]\n\n\nTheta Tau Alumni Panel\n\n\nInfo and slide deck"
   },
   {
     "objectID": "profile.html",

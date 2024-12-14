@@ -24,7 +24,9 @@ Use a laptop or a desktop to view the content.
 :::
 
 ::: {layout="[[1,1], [1]]"}
-![Flyer](./images/AlumniPanel_Flyer.png){width=4in}
+![Flyer](./images/Fall2024/OT_AlumniPanle_Fall2024/AlumniPanel_Fall 2024.jpg){width=4in}
+
+![Flyer](./images/Fall2024/OT_AlumniPanle_Fall2024/AlumniPanel_Flyer.png){width=4in}
 <!-- ![Elephant](elephant.png){width=70%, ig-alt="A drawing of an elephant."} -->
 :::
 
